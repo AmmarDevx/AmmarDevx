@@ -23,7 +23,7 @@
 ```js
 const ammar = {
   role:      "Creative Developer",
-  location:  "Islamabad, Pakistan 🇵🇰",
+ 
   focus:     ["Three.js", "WebGL", "Interactive 3D", "AI-powered web apps"],
   exploring: ["Computer Vision", "Gesture-based interfaces", "Real-time browser AI"],
   motto:     "Build. Break. Learn. Ship. 🚀",
